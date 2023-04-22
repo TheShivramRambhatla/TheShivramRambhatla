@@ -1,4 +1,4 @@
-### 👨‍💻 Hi there! I'm [Shivram Rambhatla] 👋
+### 👨‍💻 Hi there! I'm Shivram Rambhatla 👋
 
 
 I'm an enthusiastic machine learning engineer 🤖  with a passion for building intelligent systems and leveraging data to drive innovation. I love working on complex problems that require creative solutions, and I'm always eager to collaborate on new projects and explore cutting-edge technologies.
@@ -17,7 +17,7 @@ I have extensive experience working with a variety of tools and technologies, in
 
 ### 🤝 Let's connect:
 
-If you're interested in collaborating on a project or have any questions, don't hesitate to reach out! You can contact me through LinkedIn or email me directly at [venkata.rambhatla@gmail.com]. I'm always open to new opportunities and excited to connect with other ML enthusiasts. Let's build something awesome together!
+If you're interested in collaborating on a project or have any questions, don't hesitate to reach out! You can contact me through LinkedIn or email me directly at venkata.rambhatla@gmail.com . I'm always open to new opportunities and excited to connect with other ML enthusiasts. Let's build something awesome together!
 
 ### 📈 Check out my work:
 
