@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**TheShivramRambhatla/TheShivramRambhatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I'm an ML enthusiast 🤖 who loves to explore the vast and exciting world of Machine Learning. I'm always on the lookout for exciting new projects to collaborate on and I'm currently seeking internships in this field.
 
