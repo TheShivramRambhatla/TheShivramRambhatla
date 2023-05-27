@@ -17,7 +17,8 @@ I have extensive experience working with a variety of tools and technologies, in
 
 ### 👽 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
+
 
 ### 🤝 Let's connect:
 
