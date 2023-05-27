@@ -11,9 +11,9 @@ I'm currently seeking internships to gain more experience and further develop my
 
 I have extensive experience working with a variety of tools and technologies, including:
 
-* Programming languages: Python, R, C, SQL
-- Frameworks and libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Plotly
-+ Machine learning techniques: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Gradient Boosting, Support Vector Machines, K-Nearest Neighbors,  Natural Language Processing, K-Means Clustering.
+* 💻 Programming languages: Python, Java, C#, Dart, C++, R, C, SQL
+- 🎆Frameworks and libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Plotly, Tensorflow, Keras, Pytorch
++ 🤖Machine learning techniques: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Gradient Boosting, Support Vector Machines, K-Nearest Neighbors,  Natural Language Processing, K-Means Clustering.
 
 ### 👽 Skills:
 
