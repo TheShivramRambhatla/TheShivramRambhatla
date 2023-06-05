@@ -24,7 +24,7 @@ I have extensive experience working with a variety of tools and technologies, in
 
 If you're interested in collaborating on a project or have any questions, don't hesitate to reach out! You can contact me through LinkedIn or email me directly at venkata.rambhatla@gmail.com . I'm always open to new opportunities and excited to connect with other ML enthusiasts. Let's build something awesome together!
 ## ▽ Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivram_2704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theshivramrambhatla/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheShivram2704)) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+918985917858)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivram_2704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theshivramrambhatla/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheShivram2704) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+918985917858)
 
 
 ### 📈 Check out my work:
