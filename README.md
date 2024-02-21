@@ -19,6 +19,13 @@ I have extensive experience working with a variety of tools and technologies, in
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,c,cpp,dart,r,html,css,js,replit,unity,vscode,flutter&perline=7)](https://skillicons.dev)
 
+## 📊 GitHub Stats:
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheShivramRambhatla&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShivramRambhatla&theme=dark&hide_border=true)<br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivramRambhatla&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+</div>
 
 ### 🤝 Let's connect:
 
