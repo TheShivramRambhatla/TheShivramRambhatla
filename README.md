@@ -40,3 +40,5 @@ If you're interested in collaborating on a project or have any questions, don't 
 ### 📈 Check out my work:
 
 Feel free to check out my repositories below to see some of my past projects and contributions. Let's connect and create some amazing ML projects together! 💪
+
+![](https://komarev.com/ghpvc/?username=TheShivramRambhatla&color=green)
